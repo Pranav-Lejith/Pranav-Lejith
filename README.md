@@ -5,6 +5,7 @@
 - 📫 How to reach me pranav.developer.acc@gmail.com
 - Software developer of AUDSA
 - Creator of Delta and Theta
+- **Intel AISC Leader**
 - Member of windows insider program, AI Student community, Expo Developers Community, Meta Developer's community, Motoko Developer's community and Apple Developer
 
 
