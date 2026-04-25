@@ -3,7 +3,7 @@
 
 - Software developer of AUDSA
 - Creator of Delta, Theta and Orion.
-- **Intel AISC Leader**
+- ** Former Intel AISC Leader**
 - Member of AI Student Community
 
 
